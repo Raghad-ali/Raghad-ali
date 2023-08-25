@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Raghad ali
-- 👀 I’m interested in programming and web developer.
+- 👋 Hi, I’m Raghad 
+- 👀 I’m interested in programming and AI.
 - 🌱 I’m currently improve myself on JavaScript . 
 - 📫 How to reach me raghadali02w@gmail.com.
 
